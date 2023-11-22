@@ -2,21 +2,20 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 What do you like to do
-- 🎓 What's your education background
-- 💼 What are you planning on doing for work 
-- 🌱 Currently working on
+- 🎼 Music, ✈️Traveling and 🏈Sports are my outside of work interest  
+- 🎓 Certified A+, Network+, CSAP+ and Linux+ 
+- 💼 Platform Engineer/Technical Instructor 
 - ✍️ Repositories you want to emphasize
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Linux](https://img.shields.io/badge/Linux-grey?logo=linux)
+  ![Windows](https://img.shields.io/badge/Windows-grey?logo=windows)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -27,15 +26,24 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
+- 📝 &nbsp;
   ![diagram.net](https://img.shields.io/badge/-Diagram.net-333333?style=flat&logo=diagrams.net)
-
+- ☁️ &nbsp;
+  ![AWS Badge](https://img.shields.io/badge/AWS-Service-green?logo=amazonaws)
+  ![AWS Badge](https://img.shields.io/badge/AWS-EKS-orange?logo=amazoneks)
+  ![AWS Badge](https://img.shields.io/badge/AWS-EKC-orange?logo=amazonecs)
+  ![K8S](https://img.shields.io/badge/Kubernetes-black?logo=kubernetes)
+  ![Docker](https://img.shields.io/badge/Docker-black?logo=docker)
+- 👮 &nbsp;
+  ![OPNSense](https://img.shields.io/badge/OPNsense-black?logo=opnsense)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-black?logo=wireshark)
+  ![CiscoMeraki](https://img.shields.io/badge/cisco-Meraki-green?logo=cisco)
+  
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.kuralabs.org/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
+<a href="http://test2test.com.s3-website-us-east-1.amazonaws.com/"><img alt="Website" src="https://img.shields.io/badge/Website-MyProfile-orange?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/tyronesanderson/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tyrone%20Sanderson-orange?style=flat-square&logo=linkedin"></a>
 <a href="tsanderson@kuralabs.org"><img alt="Email" src="https://img.shields.io/badge/Email-tsanderson@kuralabs.org-orange?style=flat-square&logo=gmail"></a>
-</p>
